@@ -1,33 +1,45 @@
 # Research Paper Finder with AI Hypothesis Generation
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Research+Paper+Finder+Screenshot)
+<div align="center">
+  <img src="Images/logo.png" alt="Research Paper Finder Logo" width="200"/>
+ <img src="Images/ui.png" alt="Research Paper Finder Logo" width="1500"/>
+</div>
 
-A web application that helps researchers find relevant scientific papers and generates AI-powered hypotheses based on the paper's content. The app integrates with PubMed and EuropePMC APIs to fetch research papers and provides tools for visualizing connections between concepts.
+---
 
-## Features
+## 🎯 Overview
 
-- 🔍 **Search Research Papers** from PubMed and EuropePMC databases
-- 🧠 **AI Hypothesis Generation** based on paper titles and abstracts
-- 📊 **Interactive Knowledge Graph** visualization of key concepts
-- 📥 **Export Results** in TXT, CSV, and PDF formats
-- 🎨 **Modern UI** with dark theme and responsive design
-- 🔗 **Direct Links** to original papers
+A web application for researchers to discover scientific papers and generate AI-powered hypotheses based on their content. It integrates PubMed and EuropePMC APIs for seamless paper retrieval and offers tools for visualizing concept connections.
 
-## Technologies Used
+## ✨ Features
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Libraries**: 
-  - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-  - [D3.js](https://d3js.org/) - Data visualization library
-  - [jsPDF](https://parall.ax/products/jspdf) - PDF generation
-- **APIs**:
-  - [PubMed E-utilities](https://www.ncbi.nlm.nih.gov/books/NBK25501/)
-  - [EuropePMC REST API](https://europepmc.org/RestfulWebService)
+- 🔍 Search papers from PubMed and EuropePMC databases
+- 🧠 AI-powered hypothesis generation using paper titles and abstracts
+- 📊 Interactive knowledge graph to visualize key concepts
+- 📥 Export results in TXT, CSV, and PDF formats
+- 🎨 Modern, responsive UI with a dark theme
+- 🔗 Direct links to original papers
 
-## Installation
+## 🛠️ Technologies Used
 
-No installation required! The application runs directly in the browser.
+### Frontend
+- **HTML5**: Semantic markup
+- **CSS3**: Modern styling
+- **JavaScript**: Dynamic functionality
 
-1. Clone this repository:
+### Libraries & Frameworks
+- **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework
+- **[D3.js](https://d3js.org/)**: Data visualization library
+- **[jsPDF](https://parall.ax/products/jspdf)**: PDF generation
+
+### APIs
+- **[PubMed E-utilities](https://www.ncbi.nlm.nih.gov/books/NBK25501/)**: PubMed database access
+- **[EuropePMC REST API](https://europepmc.org/RestfulWebService)**: European research papers
+
+## 🚀 Installation
+
+No installation required! The app runs directly in the browser.
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/research-paper-finder.git
+   git clone https://github.com/Akshay-gurav-31/AARS2.git
